@@ -1,0 +1,67 @@
+#bg	{
+	background-color: #FFC107;
+}
+.naiiba	{
+	font-family: consolas;
+	color: white;
+	text-shadow: 4px 4px 8px red;
+	word-spacing: 15px;
+	text-align: center;
+	
+}
+#haha	{
+	color: #1565c0;
+	font-family: baskerville;
+	text-align: justify;
+	text-shadow: 4px 4px 8px white;
+}
+.haah	{
+	color: #8bc34a;
+	font-family: verdana;
+	text-shadow: 4px 4px 8px #009688;
+	text-align: center;
+}
+video	{
+	border: solid green;
+
+}
+#month	{
+	color: #009688;
+	font-family: Trebuchet MS;
+	text-align: center;
+	font-style: oblique;
+	text-shadow: 4px 4px 8px #00f6cc;
+	
+}
+
+h1	{
+	color: #f44336;
+	text-shadow: 4px 4px 8px white;
+	font-family: georgia;
+}
+img	{
+	border: groove #448aff;
+}
+li 	{
+	color: e3425e;
+	font-family: verdana;
+	text-align: justify;
+	text-shadow: 4px 4px 8px red;
+}
+em, strong {
+	color: green;
+	text-shadow: 4px 4px 8px yellow;
+}
+
+.ha	{
+	font-weight: bolder;
+	font-family: lucida console;
+	color: #f76e8b;
+	text-shadow: 4px 4px 8px white;
+}
+#ayokona	{
+	border: #FFC107;
+}
+hr	{
+	color: pink;
+}
